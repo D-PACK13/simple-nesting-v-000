@@ -83,7 +83,7 @@ def adding_matz
         }
      }
      
-programmer_hash[:yukihiro_matsumot]
+programmer_hash[:yukihiro_matsumotk] = {known_for: "Bird", languageses: "Bird"}
 
 end
 
