@@ -67,9 +67,6 @@ languages[0]
 end
 
 def adding_matz
-# add the following information to the top level of programmer_hash
-# dennis_ritchies_language
-
 	programmer_hash = 
  		{
         :grace_hopper => {
@@ -87,7 +84,7 @@ def adding_matz
      }
      
 
-     
+
 end
 
 def changing_alan
